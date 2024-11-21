@@ -1,4 +1,4 @@
-# Sprint 8 Project - End-to-End (E2E) Test Suite
+# Project - End-to-End (E2E) Test Suite
 
 This project provides an automated end-to-end (E2E) test suite for the **Urban Routes** application, covering the full taxi ordering process on both Chrome and Firefox browsers. The test suite ensures that the user flow works seamlessly across the key steps involved in placing a taxi order.
 
